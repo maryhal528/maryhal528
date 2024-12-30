@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryhal528
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning AIGC
+- 🌱 I’m currently learning about AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maryhal528ATGMAIL
 - 😄 Pronouns: ...
