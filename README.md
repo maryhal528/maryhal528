@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryhal528
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning about AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me maryhal528ATGMAIL
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love ChatGPT
